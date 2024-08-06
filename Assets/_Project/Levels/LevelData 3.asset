@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a8d4a03b22abed4b9a15853ec569410, type: 3}
+  m_Name: LevelData 3
+  m_EditorClassIdentifier: 
+  ColorOrder:
+  - {r: 0, g: 0, b: 1, a: 0}
+  - {r: 1, g: 0, b: 0, a: 0}
+  - {r: 1, g: 1, b: 0, a: 0}
+  Data:
+  - Position: {x: -0.12007826, y: 0.02, z: -0.19999999}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46662033}
+    ID: 0
+    Parents: 030000000400000007000000
+    Color: {r: 1, g: 1, b: 0, a: 1}
+  - Position: {x: -0.12, y: 0.02, z: 0.089999996}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46662033}
+    ID: 1
+    Parents: 0300000007000000
+    Color: {r: 0, g: 0, b: 1, a: 1}
+  - Position: {x: -0.12, y: 0.02, z: 0.19}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46554708}
+    ID: 2
+    Parents: 0300000007000000
+    Color: {r: 1, g: 1, b: 0, a: 1}
+  - Position: {x: -0.07227521, y: 0.03, z: -0.000000005186896}
+    Rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46554708}
+    ID: 3
+    Parents: 
+    Color: {r: 0, g: 0, b: 1, a: 1}
+  - Position: {x: 0.04, y: 0.03, z: 0.089999996}
+    Rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.25}
+    ID: 4
+    Parents: 
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  - Position: {x: -0.12, y: 0.02, z: -0.099999994}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46662033}
+    ID: 5
+    Parents: 030000000400000007000000
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  - Position: {x: -0.12141862, y: 0.02, z: -0.01}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46662033}
+    ID: 6
+    Parents: 030000000400000007000000
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  - Position: {x: -0.18, y: 0.03, z: -0.000000010631167}
+    Rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46554708}
+    ID: 7
+    Parents: 
+    Color: {r: 0, g: 0, b: 1, a: 1}
+  - Position: {x: -0.28, y: 0.03, z: -0.104928866}
+    Rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.25}
+    ID: 8
+    Parents: 
+    Color: {r: 1, g: 1, b: 0, a: 1}

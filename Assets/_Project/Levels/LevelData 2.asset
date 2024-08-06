@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a8d4a03b22abed4b9a15853ec569410, type: 3}
+  m_Name: LevelData 2
+  m_EditorClassIdentifier: 
+  ColorOrder:
+  - {r: 1, g: 0, b: 0, a: 0}
+  - {r: 0, g: 1, b: 0, a: 0}
+  Data:
+  - Position: {x: -0.12, y: 0.02, z: 0.14999999}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46554708}
+    ID: 0
+    Parents: 
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  - Position: {x: -0.01, y: 0.03, z: 0.03}
+    Rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46554708}
+    ID: 1
+    Parents: 00000000
+    Color: {r: 0, g: 1, b: 0, a: 1}
+  - Position: {x: -0.12, y: 0.02, z: 0.029999994}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46662033}
+    ID: 2
+    Parents: 010000000400000005000000
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  - Position: {x: -0.11999999, y: 0.02, z: -0.089999996}
+    Rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46662033}
+    ID: 3
+    Parents: 010000000400000005000000
+    Color: {r: 1, g: 0, b: 0, a: 1}
+  - Position: {x: -0.24, y: 0.03, z: 0.030000001}
+    Rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46554708}
+    ID: 4
+    Parents: 00000000
+    Color: {r: 0, g: 1, b: 0, a: 1}
+  - Position: {x: -0.12, y: 0.03, z: 0.029999986}
+    Rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+    Scale: {x: 0.064787045, y: 0.01, z: 0.46554708}
+    ID: 5
+    Parents: 00000000
+    Color: {r: 0, g: 1, b: 0, a: 1}
